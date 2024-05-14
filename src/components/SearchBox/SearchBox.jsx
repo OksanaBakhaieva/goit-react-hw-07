@@ -12,7 +12,7 @@ export default function SearchBox () {
   
   return (
     <div className={css.searchBox}>
-      <span>Find contacts by name</span>
+      <span>Find contact by name</span>
       <input
         className={css.searchField}
         type="text"
